@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@color/bg_green"
+    android:layout_height="match_parent"
+    tools:context=".Destinasi_Tujuan">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/panah"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="25dp"
+        android:contentDescription="@string/todo" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="580dp"
+        android:layout_marginTop="150dp"
+        android:background="@drawable/bgputih"
+        android:contentDescription="@string/todo" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="45dp"
+        android:layout_marginStart="59dp"
+        android:layout_marginTop="230dp"
+        android:background="@drawable/kotak2"
+        android:hint="@string/surabaya"
+        android:paddingStart="10dp"
+        android:paddingTop="10dp"
+        tools:ignore="RtlSymmetry,TextContrastCheck" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="45dp"
+        android:layout_marginStart="59dp"
+        android:layout_marginTop="325dp"
+        android:background="@drawable/kotak2"
+        android:hint="@string/_1_dewasa"
+        android:paddingStart="10dp"
+        android:paddingTop="10dp"
+        tools:ignore="RtlSymmetry,TextContrastCheck" />
+
+    <TextView
+        android:layout_width="175dp"
+        android:layout_height="45dp"
+        android:layout_marginStart="59dp"
+        android:layout_marginTop="415dp"
+        android:background="@drawable/kotak2"
+        android:hint="@string/_29_07_2021"
+        android:paddingStart="10dp"
+        android:paddingTop="10dp"
+        tools:ignore="RtlSymmetry,TextContrastCheck" />
+
+    <TextView
+        android:id="@+id/pilihkota"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="59dp"
+        android:layout_marginTop="209dp"
+        android:textStyle="bold"
+        android:text="@string/pilih_kota" />
+
+    <TextView
+        android:id="@+id/jumlahtamu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="59dp"
+        android:layout_marginTop="304dp"
+        android:textStyle="bold"
+        android:text="@string/jumlah_tamu" />
+
+    <TextView
+        android:id="@+id/untuktanggal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="59dp"
+        android:layout_marginTop="395dp"
+        android:text="@string/untuk_tanggal"
+        android:textStyle="bold" />
+
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="180dp"
+        android:layout_marginTop="432dp"
+        android:background="@drawable/vektor"
+        android:contentDescription="@string/todo"
+        tools:ignore="ImageContrastCheck" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="92dp"
+        android:layout_marginTop="530dp"
+        android:background="@drawable/button4"
+        android:paddingStart="42dp"
+        android:paddingTop="10dp"
+        android:text="@string/cari_tiket_hotel"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        tools:ignore="RtlSymmetry,TextContrastCheck" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="73dp"
+        android:layout_marginTop="670dp"
+        android:background="@drawable/button1"
+        android:contentDescription="@string/todo" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="685dp"
+        android:background="@drawable/home"
+        android:contentDescription="@string/todo" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="130dp"
+        android:layout_marginTop="685dp"
+        android:background="@drawable/search"
+        android:contentDescription="@string/todo" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/pesan"
+        android:layout_marginTop="685dp"
+        android:layout_marginStart="230dp"
+        android:contentDescription="@string/todo" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/orang"
+        android:layout_marginTop="685dp"
+        android:layout_marginStart="330dp"
+        android:contentDescription="@string/todo" />
+
+
+
+
+
+
+
+
+
+</RelativeLayout>

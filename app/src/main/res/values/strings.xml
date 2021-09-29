@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Apptravel</string>
+    <string name="todo">TODO</string>
+    <string name="pesanan">PESANAN</string>
+    <string name="detail_pesanan">Detail Pesanan</string>
+    <string name="anda_telah_melakukan_pemesanan_hotel_ciputra_world_surabaya_untuk_tanggal_20_juli_2020">Anda telah melakukan pemesanan Hotel Ciputra World Surabaya untuk tanggal 20 Juli 2020</string>
+    <string name="lanjut">LANJUT</string>
+    <string name="todo">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="pilih_hotel">Pilih Hotel</string>
+    <string name="_20_juli_2020">20 Juli 2020</string>
+    <string name="anda_telah_melakukan_pemesanan_hotel_ciputra_world_surabaya_untuk_tanggal_21_juli_2021">Anda telah melakukan pemesanan Hotel Ciputra World Surabaya untuk tanggal 21 Juli 2021</string>
+    <string name="_20_juli_2021">20 Juli 2021</string>
+    <string name="surabaya">Surabaya</string>
+    <string name="_21_juli_2021">21 Juli 2021</string>
+    <string name="todo">TODO</string>
+    <string name="surabaya">Surabaya</string>
+    <string name="surabaya">Surabaya</string>
+    <string name="surabaya">Surabaya</string>
+    <string name="surabaya">Surabaya</string>
+    <string name="_1_dewasa">1 Dewasa</string>
+    <string name="_29_07_2021">29-07-2021</string>
+    <string name="todo">TODO</string>
+    <string name="cari_tiket_hotel">Cari Tiket Hotel</string>
+    <string name="pilih_kota">Pilih Kota</string>
+    <string name="jumlah_tamu">Jumlah Tamu</string>
+    <string name="untuk_tanggal">Untuk Tanggal</string>
+</resources>

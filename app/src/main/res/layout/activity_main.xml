@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@color/bg_green"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="580dp"
+        android:layout_marginTop="150dp"
+        android:background="@drawable/bgputih"
+        android:contentDescription="@string/todo" />
+
+    <TextView
+        android:layout_width="162dp"
+        android:layout_height="32dp"
+        android:layout_marginStart="131dp"
+        android:layout_marginTop="133dp"
+        android:background="@drawable/button1"
+        android:paddingStart="50dp"
+        android:paddingTop="4dp"
+        android:text="@string/pesanan"
+        android:textColor="#FFFF"
+        android:textStyle="bold"
+        tools:ignore="RtlSymmetry,TextContrastCheck" />
+
+    <TextView
+        android:layout_width="121dp"
+        android:layout_height="28dp"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="198dp"
+        android:background="@drawable/button1"
+        android:paddingStart="2dp"
+        android:paddingTop="2dp"
+        android:text="@string/detail_pesanan"
+        android:textColor="#FFFF"
+        android:textStyle="bold"
+        tools:ignore="RtlSymmetry,TextContrastCheck" />
+
+    <TextView
+        android:layout_width="380dp"
+        android:layout_height="355dp"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="245dp"
+        android:layout_marginEnd="50dp"
+        android:layout_marginBottom="50dp"
+        android:background="@drawable/bgabu"
+        android:gravity="center"
+        android:paddingBottom="190dp"
+        android:text="@string/anda_telah_melakukan_pemesanan_hotel_ciputra_world_surabaya_untuk_tanggal_21_juli_2021"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="130dp"
+        android:layout_marginTop="500dp"
+        android:background="@drawable/button2"
+        android:paddingStart="45dp"
+        android:paddingTop="9dp"
+        android:text="@string/lanjut"
+        android:textColor="#ff000000"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        tools:ignore="RtlSymmetry" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="73dp"
+        android:layout_marginTop="670dp"
+        android:background="@drawable/button1"
+        android:contentDescription="@string/todo" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="685dp"
+        android:background="@drawable/home"
+        android:contentDescription="@string/todo" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="130dp"
+        android:layout_marginTop="685dp"
+        android:background="@drawable/search"
+        android:contentDescription="@string/todo" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/pesan"
+        android:layout_marginTop="685dp"
+        android:layout_marginStart="230dp"
+        android:contentDescription="@string/todo" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/orang"
+        android:layout_marginTop="685dp"
+        android:layout_marginStart="330dp"
+        android:contentDescription="@string/todo" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/panah"
+        android:layout_marginTop="25dp"
+        android:layout_marginStart="20dp"
+        android:contentDescription="@string/todo" />
+
+
+
+
+
+
+
+
+
+
+</RelativeLayout>
